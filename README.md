@@ -1,5 +1,5 @@
 ### Hi there 👋
-Here are some ideas to get you started:
+I am Dhruv, currently a junior at the University of Tokyo.
 
 - 🔭 I’m currently working on MARL
 - 🌱 I’m currently learning Mechano-Informatics
